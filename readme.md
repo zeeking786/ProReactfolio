@@ -1,7 +1,3 @@
-Certainly! Here's an enhanced version of your content with improved grammar and a bit more detail:
-
----
-
 # ProREACTFOLIO
 
 Welcome to my simple React-JS portfolio! This project features a basic user interface and a straightforward flow, using static data to showcase my work.
