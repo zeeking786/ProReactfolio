@@ -1,4 +1,4 @@
-# ProREACTFOLIO
+# PROREACTFOLIO
 
 Welcome to my simple React-JS portfolio! This project features a basic user interface and a straightforward flow, using static data to showcase my work.
 
